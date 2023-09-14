@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashCrusadersAssessmentConsole", "CashCrusadersAssessmentConsole\CashCrusadersAssessmentConsole.csproj", "{57B17B66-307B-4F81-857A-70F28E3D90B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashCrusadersAssessmentConsoleTest", "CashCrusadersAssessmentConsoleTest\CashCrusadersAssessmentConsoleTest.csproj", "{0062083B-CA94-41D5-8926-916F6E8F731E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B17B66-307B-4F81-857A-70F28E3D90B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B17B66-307B-4F81-857A-70F28E3D90B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B17B66-307B-4F81-857A-70F28E3D90B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B17B66-307B-4F81-857A-70F28E3D90B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0062083B-CA94-41D5-8926-916F6E8F731E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0062083B-CA94-41D5-8926-916F6E8F731E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0062083B-CA94-41D5-8926-916F6E8F731E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0062083B-CA94-41D5-8926-916F6E8F731E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C7C13C1-1037-4269-A392-0BD52608336B}
+	EndGlobalSection
+EndGlobal
